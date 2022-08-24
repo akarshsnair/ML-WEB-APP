@@ -24,11 +24,10 @@ streamlit run app.py --server.address 0.0.0.0 --server.port [your port]
 <p align="center">
     <img src='asset/main.gif?raw=1' width = '900' >
 </p>
-
-
-
-
-
-
 <p align='center'><img src='asset/vqgan.gif?raw=1' width = '1100' ></p>
+
+
+
+## Preview
+![Example of Streamlit|635x380](data/example.gif)
 
