@@ -26,8 +26,6 @@ streamlit run app.py --server.address 0.0.0.0 --server.port [your port]
 </p>
 <p align='center'><img src='asset/vqgan.gif?raw=1' width = '1100' ></p>
 
-
-
 ## Preview
 
 https://user-images.githubusercontent.com/92806180/186497767-cba96b30-b462-41b8-8182-806adae58462.mp4
