@@ -1,5 +1,6 @@
 # ML-WEB-APP
 ## Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn 
+This Web App is amde just for the study purpose . Here we are exlopring whih model has the best accuracy , the models include KNN, SVM and Random Forest .The datset that are taken are Breast Cancer, Iris, etc which are easily available from the sklearn libarary .  
 
 #### Install
 ```
